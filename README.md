@@ -19,8 +19,8 @@ A web-based platform designed to provide awareness, support, and guidance for in
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Prashanth2489/mental-health-support-platform.git
-   cd mental-health-support-platform
+   git clone https://github.com/pippalla-sairam/Mental-Health-Support-Platform.git
+   cd Mental-Health-Support-Platform
    ```
 
 Open `index.html` in a browser to access the platform.
